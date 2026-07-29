@@ -32,7 +32,5 @@ footer {
 }
 
 article img, post img {
-  max-width: 100px;
-  height: auto;
-  display: block;
+  width: 100;
 }
