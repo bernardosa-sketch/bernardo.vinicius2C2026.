@@ -34,5 +34,6 @@ footer {
 img {
     width: 400px;
     border-radius: 30px;
-box-align: center;
+text-align: center;
+margin: center;
 }
