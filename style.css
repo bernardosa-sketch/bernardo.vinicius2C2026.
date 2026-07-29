@@ -1,5 +1,5 @@
 body {
-    background-color: #ffffff;
+    background-color: #d5dd5d;
     color: #333333;
     font-family: Arial, sans-serif;
     margin: 20px;
@@ -13,7 +13,7 @@ header {
 }
 
 nav {
-    margin: 15px 0;
+    margin: 20px 0;
 }
 
 main {
