@@ -1,5 +1,5 @@
 body {
-    background-color: #d5dd5d;
+    background-color: #ffffff;
     color: #333333;
     font-family: Arial, sans-serif;
     margin: 20px;
@@ -18,7 +18,7 @@ nav {
 
 main {
     padding: 20px;
-    border: 1px solid #e24e4e;
+    border: 1px solid #ddd;
     border-radius: 20px;
 }
 
