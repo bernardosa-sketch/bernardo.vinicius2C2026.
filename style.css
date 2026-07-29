@@ -30,3 +30,9 @@ footer {
     border-top: 1px solid #141414;
     padding: 10px;
 }
+
+article img, post img {
+  max-width: 100px;
+  height: auto;
+  display: block;
+}
